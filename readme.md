@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/cici0828/ts_npm_test.svg?branch=master)](https://travis-ci.com/cici0828/ts_npm_test)
